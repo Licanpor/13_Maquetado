@@ -1,0 +1,28 @@
+*{
+	font-family: Arial;
+}
+h1{
+	margin: 30px;
+}
+h4,p{
+	text-align: justify;
+}
+p{
+	font-size: 14px;
+}
+.col-12 p{
+	margin:30px 0px;
+}
+.col-5 img{
+	width: 370px;
+	border-radius: 2%;
+}
+a img{
+	height: 60px;
+	margin: 0px 20px 30px 0px;
+border-radius: 50%;
+}
+.col-4 img{ 
+	width: 100%;
+border-radius: 8%;
+	}

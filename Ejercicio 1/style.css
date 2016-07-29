@@ -1,0 +1,32 @@
+
+img{
+	width: 100px;
+}
+h1{
+	margin: 10px;
+	font-family: Arial;
+}
+aside>div{
+	background-color: pink;
+	height: 530px;
+	padding: 2%;
+	margin: 2%;
+	border-radius: 20px;
+
+}
+.img1{
+	float:left;
+	margin-right: 20px;
+	margin-bottom: 8px;
+}
+.cja{
+	margin: 3%;
+	padding: 2%;
+	border-radius: 20px;
+}
+section .row{
+	background-color: yellow;
+}
+.round{
+	border-radius: 50%;
+}
